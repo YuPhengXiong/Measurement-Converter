@@ -1,2 +1,7 @@
 # Measurement-Converter
-This converter will convert between metric system and US system.
+
+Hi, User
+
+Welcome to a Converter that will convert whole numbers from metric to US systems.
+
+Thank you and Enjoy!!!!!!!!!!
